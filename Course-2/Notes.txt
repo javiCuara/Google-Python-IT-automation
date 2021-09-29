@@ -1,0 +1,9 @@
+RegEx or regualr expression
+	- Tool that is ysed for pattern matching (string)
+Syntax
+ 	import re
+	re.search(regex, log)
+
+Exampls:
+
+grep thon /usr/share/dict/python
